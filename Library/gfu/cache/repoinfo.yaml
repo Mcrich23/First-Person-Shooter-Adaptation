@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-12-11T09:02:07.635-08:00
+  lastUpdatedAtString: 2021-12-11T09:11:29.188-08:00
   initializedAtString: 2021-12-11T09:02:07.635-08:00
   currentGitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/Mcrich23/First-Person-Shooter-Adaptation.git
     login: 
     user: 
     host: 
@@ -25,14 +25,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/Mcrich23/First-Person-Shooter-Adaptation.git
+    trackingBranch: master
   currentConfigRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/Mcrich23/First-Person-Shooter-Adaptation.git
   currentHead: 
