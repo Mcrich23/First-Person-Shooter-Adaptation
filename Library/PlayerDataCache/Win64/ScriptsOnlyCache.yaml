@@ -2,19 +2,20 @@ ScriptsOnlyBuild:
   usedScripts:
     GitHub.Unity.45.dll:
     - GitHub.Unity.ApplicationCache
+    - GitHub.Unity.BranchesCache
     - GitHub.Unity.EnvironmentCache
+    - GitHub.Unity.GitAheadBehindCache
     - GitHub.Unity.GitLocksCache
+    - GitHub.Unity.GitLogCache
     - GitHub.Unity.GitStatusCache
     - GitHub.Unity.RepositoryInfoCache
     NavMeshComponents.dll:
     - UnityEngine.AI.NavMeshModifier
     - UnityEngine.AI.NavMeshSurface
     Unity.CollabProxy.Editor.dll:
-    - Unity.Cloud.Collaborate.UserInterface.WindowCache
+    - Unity.Cloud.Collaborate.UserInterface.CollaborateWindow
     Unity.InteractiveTutorials.Core.Scripts.dll:
     - SceneObjectGUIDComponent
-    Unity.InteractiveTutorials.Core.dll:
-    - Unity.InteractiveTutorials.AnalyticsHelper
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.dll:
