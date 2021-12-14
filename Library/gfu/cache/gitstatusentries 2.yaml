@@ -1,0 +1,2784 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-12-11T09:14:59.568-08:00
+  initializedAtString: 2021-12-11T09:02:12.539-08:00
+  entries:
+  - path: .DS_Store
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/.DS_Store
+    projectPath: .DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Plugins/GitHub/Editor/.Mono.Posix 2.dll.icloud
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Assets/Plugins/GitHub/Editor/.Mono.Posix
+      2.dll.icloud
+    projectPath: Assets/Plugins/GitHub/Editor/.Mono.Posix 2.dll.icloud
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Plugins/GitHub/Editor/.ReadOnlyCollectionsInterfaces 2.dll.icloud
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Assets/Plugins/GitHub/Editor/.ReadOnlyCollectionsInterfaces
+      2.dll.icloud
+    projectPath: Assets/Plugins/GitHub/Editor/.ReadOnlyCollectionsInterfaces 2.dll.icloud
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Plugins/GitHub/Editor/.sfw.net 2.dll.icloud
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Assets/Plugins/GitHub/Editor/.sfw.net
+      2.dll.icloud
+    projectPath: Assets/Plugins/GitHub/Editor/.sfw.net 2.dll.icloud
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Plugins/GitHub/Editor/.System.Threading 2.dll.icloud
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Assets/Plugins/GitHub/Editor/.System.Threading
+      2.dll.icloud
+    projectPath: Assets/Plugins/GitHub/Editor/.System.Threading 2.dll.icloud
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Plugins/GitHub/Editor/x64/.pthreadVC2 2.dll.icloud
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Assets/Plugins/GitHub/Editor/x64/.pthreadVC2
+      2.dll.icloud
+    projectPath: Assets/Plugins/GitHub/Editor/x64/.pthreadVC2 2.dll.icloud
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Plugins/GitHub/Editor/x64/.sfw_x64 2.dll.icloud
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Assets/Plugins/GitHub/Editor/x64/.sfw_x64
+      2.dll.icloud
+    projectPath: Assets/Plugins/GitHub/Editor/x64/.sfw_x64 2.dll.icloud
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Plugins/GitHub/Editor/x86/.pthreadVC2 2.dll.icloud
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Assets/Plugins/GitHub/Editor/x86/.pthreadVC2
+      2.dll.icloud
+    projectPath: Assets/Plugins/GitHub/Editor/x86/.pthreadVC2 2.dll.icloud
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Plugins/GitHub/Editor/x86/.sfw_x86 2.dll.icloud
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Assets/Plugins/GitHub/Editor/x86/.sfw_x86
+      2.dll.icloud
+    projectPath: Assets/Plugins/GitHub/Editor/x86/.sfw_x86 2.dll.icloud
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Build/FIrst Person Shooter.app/Contents/_CodeSignature/CodeResources
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/_CodeSignature/CodeResources
+    projectPath: Build/FIrst Person Shooter.app/Contents/_CodeSignature/CodeResources
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Frameworks/libmonobdwgc-2.0.dylib
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Frameworks/libmonobdwgc-2.0.dylib
+    projectPath: Build/FIrst Person Shooter.app/Contents/Frameworks/libmonobdwgc-2.0.dylib
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Frameworks/libMonoPosixHelper.dylib
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Frameworks/libMonoPosixHelper.dylib
+    projectPath: Build/FIrst Person Shooter.app/Contents/Frameworks/libMonoPosixHelper.dylib
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Frameworks/UnityPlayer.dylib
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Frameworks/UnityPlayer.dylib
+    projectPath: Build/FIrst Person Shooter.app/Contents/Frameworks/UnityPlayer.dylib
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Info.plist
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Info.plist
+    projectPath: Build/FIrst Person Shooter.app/Contents/Info.plist
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MacOS/FPS
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MacOS/FPS
+    projectPath: Build/FIrst Person Shooter.app/Contents/MacOS/FPS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/config
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/config
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml
+    projectPath: Build/FIrst Person Shooter.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/app.info
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/app.info
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/app.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/boot.config
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/boot.config
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/boot.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/globalgamemanagers
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/globalgamemanagers
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/globalgamemanagers
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/globalgamemanagers.assets
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/globalgamemanagers.assets
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/level0
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/level0
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/level0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/level1
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/level1
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/level1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/level2
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/level2
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/level2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/level3
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/level3
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/level3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/level3.resS
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/level3.resS
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/level3.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/fps.AI.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/fps.AI.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/fps.AI.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/fps.Game.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/fps.Game.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/fps.Game.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/fps.Gameplay.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/fps.Gameplay.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/fps.Gameplay.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/fps.UI.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/fps.UI.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/fps.UI.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Mono.Security.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/Mono.Security.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Mono.Security.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/mscorlib.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/mscorlib.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/mscorlib.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/NavMeshComponents.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/NavMeshComponents.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/NavMeshComponents.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/netstandard.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/netstandard.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/netstandard.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Newtonsoft.Json.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/Newtonsoft.Json.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Newtonsoft.Json.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.ComponentModel.Composition.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.ComponentModel.Composition.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.ComponentModel.Composition.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Configuration.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.Configuration.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Configuration.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Core.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.Core.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Core.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Data.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.Data.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Data.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Diagnostics.StackTrace.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.Diagnostics.StackTrace.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Diagnostics.StackTrace.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Drawing.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.Drawing.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Drawing.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.EnterpriseServices.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.EnterpriseServices.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.EnterpriseServices.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Globalization.Extensions.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.Globalization.Extensions.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Globalization.Extensions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.IO.Compression.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.IO.Compression.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.IO.Compression.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.IO.Compression.FileSystem.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.IO.Compression.FileSystem.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.IO.Compression.FileSystem.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Net.Http.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.Net.Http.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Net.Http.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Numerics.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.Numerics.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Numerics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.Xml.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.Xml.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Runtime.Serialization.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.ServiceModel.Internals.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.ServiceModel.Internals.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.ServiceModel.Internals.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Transactions.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.Transactions.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Transactions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Xml.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.Xml.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Xml.Linq.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.Xml.Linq.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Xml.Linq.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Xml.XPath.XDocument.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/System.Xml.XPath.XDocument.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/System.Xml.XPath.XDocument.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.InteractiveTutorials.Core.Scripts.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/Unity.InteractiveTutorials.Core.Scripts.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.InteractiveTutorials.Core.Scripts.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.ProBuilder.Csg.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/Unity.ProBuilder.Csg.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.ProBuilder.Csg.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.ProBuilder.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/Unity.ProBuilder.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.ProBuilder.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.ProBuilder.KdTree.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/Unity.ProBuilder.KdTree.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.ProBuilder.KdTree.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.ProBuilder.Poly2Tri.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/Unity.ProBuilder.Poly2Tri.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.ProBuilder.Poly2Tri.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.ProBuilder.Stl.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/Unity.ProBuilder.Stl.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.ProBuilder.Stl.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.TextMeshPro.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/Unity.TextMeshPro.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.Timeline.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/Unity.Timeline.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.Advertisements.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.Advertisements.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.Advertisements.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AndroidJNIModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AndroidJNIModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AndroidJNIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.DSPGraphModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.DSPGraphModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.DSPGraphModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.GIModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.GIModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.GIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.HotReloadModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.InputLegacyModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.InputLegacyModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.InputLegacyModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.LocalizationModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.LocalizationModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.LocalizationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.Monetization.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.Monetization.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.Monetization.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ProfilerModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ProfilerModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ProfilerModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.StreamingModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.StreamingModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.StreamingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.SubstanceModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.SubsystemsModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.SubsystemsModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.SubsystemsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TextCoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.TLSModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsNativeModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsNativeModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsNativeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UmbraModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityCurlModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityCurlModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityCurlModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.VFXModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.VFXModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.VFXModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.VirtualTexturingModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.VirtualTexturingModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.VirtualTexturingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Managed/UnityEngine.XRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/resources.assets
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/resources.assets
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/resources.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/resources.assets.resS
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/resources.assets.resS
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/resources.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/Resources/unity_builtin_extra
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/Resources/unity_builtin_extra
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/Resources/unity_builtin_extra
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/RuntimeInitializeOnLoads.json
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/RuntimeInitializeOnLoads.json
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/RuntimeInitializeOnLoads.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/ScriptingAssemblies.json
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/ScriptingAssemblies.json
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/ScriptingAssemblies.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets0.assets
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/sharedassets0.assets
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets0.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets0.assets.resS
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/sharedassets0.assets.resS
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets1.assets
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/sharedassets1.assets
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets1.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets1.assets.resS
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/sharedassets1.assets.resS
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets1.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets2.assets
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/sharedassets2.assets
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets2.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets3.assets
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/sharedassets3.assets
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets3.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets3.assets.resS
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/sharedassets3.assets.resS
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets3.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets3.resource
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/Data/sharedassets3.resource
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/Data/sharedassets3.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/DefaultPreferences.plist
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/DefaultPreferences.plist
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/DefaultPreferences.plist
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/MainMenu.nib/designable.nib
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/MainMenu.nib/designable.nib
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/MainMenu.nib/designable.nib
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/MainMenu.nib/keyedobjects.nib
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Build/FIrst Person Shooter.app/Contents/Resources/unity default resources
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Build/FIrst
+      Person Shooter.app/Contents/Resources/unity default resources
+    projectPath: Build/FIrst Person Shooter.app/Contents/Resources/unity default
+      resources
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ArtifactDB
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/BuildPlayerData/Editor/TypeDb-All 3.json
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/BuildPlayerData/Editor/TypeDb-All
+      3.json
+    projectPath: Library/BuildPlayerData/Editor/TypeDb-All 3.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/BuildPlayerData/Editor/TypeDb-All.json
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/BuildPlayerData/Editor/TypeDb-All.json
+    projectPath: Library/BuildPlayerData/Editor/TypeDb-All.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/BuildPlayerData/Player/RuntimeInitializeOnLoads 3.json
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/BuildPlayerData/Player/RuntimeInitializeOnLoads
+      3.json
+    projectPath: Library/BuildPlayerData/Player/RuntimeInitializeOnLoads 3.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/BuildPlayerData/Player/TypeDb-All 3.json
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/BuildPlayerData/Player/TypeDb-All
+      3.json
+    projectPath: Library/BuildPlayerData/Player/TypeDb-All 3.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/BuildPlayerData/Player/TypeDb-All.json
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/BuildPlayerData/Player/TypeDb-All.json
+    projectPath: Library/BuildPlayerData/Player/TypeDb-All.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/BuildPlayerData/response.rsp
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/BuildPlayerData/response.rsp
+    projectPath: Library/BuildPlayerData/response.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/LastBuild.buildreport
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/LastBuild.buildreport
+    projectPath: Library/LastBuild.buildreport
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/boot 2.config
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/boot
+      2.config
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/boot 2.config
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers 2
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers
+      2
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers 2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers 2.assets
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers
+      2.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers 2.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level0 2
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/level0
+      2
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level0 2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level1 2
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/level1
+      2
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level1 2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level2 2
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/level2
+      2
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level2 2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level3
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/level3
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level3 2
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/level3
+      2
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level3 2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level3 2.resS
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/level3
+      2.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level3 2.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level3.resS
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/level3.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level3.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/fps.AI 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/fps.AI
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/fps.AI 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/fps.Game 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/fps.Game
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/fps.Game 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/fps.Gameplay 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/fps.Gameplay
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/fps.Gameplay 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/fps.UI 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/fps.UI
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/fps.UI 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Mono.Security 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/Mono.Security
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Mono.Security
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/mscorlib 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/mscorlib
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/mscorlib 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/NavMeshComponents 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/NavMeshComponents
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/NavMeshComponents
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/netstandard 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/netstandard
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/netstandard 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Newtonsoft.Json 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/Newtonsoft.Json
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Newtonsoft.Json
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.ComponentModel.Composition
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.ComponentModel.Composition
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.ComponentModel.Composition
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Configuration
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Configuration
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Configuration
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Core 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Core
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Core 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Data 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Data
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Data 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Diagnostics.StackTrace
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Diagnostics.StackTrace
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Diagnostics.StackTrace
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Drawing 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Drawing
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Drawing
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.EnterpriseServices
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.EnterpriseServices
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.EnterpriseServices
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Globalization.Extensions
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Globalization.Extensions
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Globalization.Extensions
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.IO.Compression
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.IO.Compression
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.IO.Compression
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.IO.Compression.FileSystem
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.IO.Compression.FileSystem
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.IO.Compression.FileSystem
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Net.Http 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Net.Http
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Net.Http
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Numerics 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Numerics
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Numerics
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Runtime.Serialization
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Runtime.Serialization
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Runtime.Serialization
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Runtime.Serialization.Xml
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Runtime.Serialization.Xml
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Runtime.Serialization.Xml
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.ServiceModel.Internals
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.ServiceModel.Internals
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.ServiceModel.Internals
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Transactions 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Transactions
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Transactions
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Xml 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Xml
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Xml 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Xml.Linq 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Xml.Linq
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Xml.Linq
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Xml.XPath.XDocument
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Xml.XPath.XDocument
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/System.Xml.XPath.XDocument
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.InteractiveTutorials.Core.Scripts
+      3.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.InteractiveTutorials.Core.Scripts
+      3.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.InteractiveTutorials.Core.Scripts
+      3.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.ProBuilder 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.ProBuilder
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.ProBuilder
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.ProBuilder.Csg
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.ProBuilder.Csg
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.ProBuilder.Csg
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.ProBuilder.KdTree
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.ProBuilder.KdTree
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.ProBuilder.KdTree
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.ProBuilder.Poly2Tri
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.ProBuilder.Poly2Tri
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.ProBuilder.Poly2Tri
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.ProBuilder.Stl
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.ProBuilder.Stl
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.ProBuilder.Stl
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.TextMeshPro 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.TextMeshPro
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.TextMeshPro
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Timeline 3.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Timeline
+      3.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Timeline
+      3.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine 2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AccessibilityModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AccessibilityModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AccessibilityModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AIModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AIModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AIModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AndroidJNIModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AndroidJNIModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AndroidJNIModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AnimationModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AnimationModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AnimationModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.ARModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.ARModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.ARModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AssetBundleModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AssetBundleModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AssetBundleModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AudioModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AudioModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.AudioModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.ClothModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.ClothModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.ClothModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.ClusterInputModule
+      3.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.ClusterInputModule
+      3.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.ClusterInputModule
+      3.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.ClusterRendererModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.ClusterRendererModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.ClusterRendererModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.CoreModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.CoreModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.CoreModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.CrashReportingModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.CrashReportingModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.CrashReportingModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.DirectorModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.DirectorModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.DirectorModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.DSPGraphModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.DSPGraphModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.DSPGraphModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.GameCenterModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.GameCenterModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.GameCenterModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.GIModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.GIModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.GIModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.GridModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.GridModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.GridModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UnityWebRequestAudioModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UnityWebRequestAudioModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UnityWebRequestAudioModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UnityWebRequestModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UnityWebRequestModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UnityWebRequestModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UnityWebRequestTextureModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UnityWebRequestTextureModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UnityWebRequestTextureModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UnityWebRequestWWWModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UnityWebRequestWWWModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.UnityWebRequestWWWModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.VehiclesModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.VehiclesModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.VehiclesModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.VFXModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.VFXModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.VFXModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.VideoModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.VideoModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.VideoModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.VirtualTexturingModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.VirtualTexturingModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.VirtualTexturingModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.VRModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.VRModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.VRModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.WindModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.WindModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.WindModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.XRModule
+      2.dll
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.XRModule
+      2.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/UnityEngine.XRModule
+      2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/resources 2.assets
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/resources
+      2.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/resources 2.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/resources.assets 2.resS
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/resources.assets
+      2.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/resources.assets 2.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Resources/unity_builtin_extra
+      2
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/Resources/unity_builtin_extra
+      2
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Resources/unity_builtin_extra
+      2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/RuntimeInitializeOnLoads 2.json
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/RuntimeInitializeOnLoads
+      2.json
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/RuntimeInitializeOnLoads
+      2.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/ScriptingAssemblies 2.json
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/ScriptingAssemblies
+      2.json
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/ScriptingAssemblies 2.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/ScriptingAssemblies.json
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/ScriptingAssemblies.json
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/ScriptingAssemblies.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0 2.assets
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/sharedassets0
+      2.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0 2.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets 2.resS
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets
+      2.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets 2.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets1 2.assets
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/sharedassets1
+      2.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets1 2.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets1.assets 2.resS
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/sharedassets1.assets
+      2.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets1.assets 2.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets2 2.assets
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/sharedassets2
+      2.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets2 2.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3 2.assets
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/sharedassets3
+      2.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3 2.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3 2.resource
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/sharedassets3
+      2.resource
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3 2.resource
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets 2.resS
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets
+      2.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets 2.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets.resS
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.resource
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.resource
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets3.resource
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache 2.yaml
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache
+      2.yaml
+    projectPath: Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache 2.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache.yaml
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache.yaml
+    projectPath: Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SceneVisibilityState.asset
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/UnityConnectSettings.asset
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/ProjectSettings/UnityConnectSettings.asset
+    projectPath: ProjectSettings/UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/CompilationLog.txt
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/CompilationLog.txt
+    projectPath: Temp/CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/fps.AI.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/fps.AI.pdb
+    projectPath: Temp/ManagedSymbols/fps.AI.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/fps.Game.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/fps.Game.pdb
+    projectPath: Temp/ManagedSymbols/fps.Game.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/fps.Gameplay.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/fps.Gameplay.pdb
+    projectPath: Temp/ManagedSymbols/fps.Gameplay.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/fps.UI.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/fps.UI.pdb
+    projectPath: Temp/ManagedSymbols/fps.UI.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/NavMeshComponents.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/NavMeshComponents.pdb
+    projectPath: Temp/ManagedSymbols/NavMeshComponents.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/Unity.InteractiveTutorials.Core.Scripts.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/Unity.InteractiveTutorials.Core.Scripts.pdb
+    projectPath: Temp/ManagedSymbols/Unity.InteractiveTutorials.Core.Scripts.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/Unity.ProBuilder.Csg.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/Unity.ProBuilder.Csg.pdb
+    projectPath: Temp/ManagedSymbols/Unity.ProBuilder.Csg.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/Unity.ProBuilder.KdTree.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/Unity.ProBuilder.KdTree.pdb
+    projectPath: Temp/ManagedSymbols/Unity.ProBuilder.KdTree.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/Unity.ProBuilder.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/Unity.ProBuilder.pdb
+    projectPath: Temp/ManagedSymbols/Unity.ProBuilder.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/Unity.ProBuilder.Poly2Tri.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/Unity.ProBuilder.Poly2Tri.pdb
+    projectPath: Temp/ManagedSymbols/Unity.ProBuilder.Poly2Tri.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/Unity.ProBuilder.Stl.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/Unity.ProBuilder.Stl.pdb
+    projectPath: Temp/ManagedSymbols/Unity.ProBuilder.Stl.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/Unity.TextMeshPro.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/Unity.TextMeshPro.pdb
+    projectPath: Temp/ManagedSymbols/Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/Unity.Timeline.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/Unity.Timeline.pdb
+    projectPath: Temp/ManagedSymbols/Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.AccessibilityModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.AccessibilityModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.AccessibilityModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.Advertisements.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.Advertisements.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.Advertisements.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.AIModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.AIModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.AIModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.AndroidJNIModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.AndroidJNIModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.AndroidJNIModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.AnimationModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.AnimationModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.AnimationModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.ARModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.ARModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.ARModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.AssetBundleModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.AssetBundleModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.AssetBundleModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.AudioModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.AudioModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.AudioModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.ClothModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.ClothModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.ClothModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.ClusterInputModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.ClusterInputModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.ClusterInputModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.ClusterRendererModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.ClusterRendererModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.ClusterRendererModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.CoreModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.CoreModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.CoreModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.CrashReportingModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.CrashReportingModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.CrashReportingModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.DirectorModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.DirectorModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.DirectorModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.DSPGraphModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.DSPGraphModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.DSPGraphModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.GameCenterModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.GameCenterModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.GameCenterModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.GIModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.GIModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.GIModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.GridModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.GridModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.GridModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.HotReloadModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.HotReloadModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.HotReloadModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.ImageConversionModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.ImageConversionModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.ImageConversionModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.IMGUIModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.IMGUIModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.IMGUIModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.InputLegacyModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.InputLegacyModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.InputLegacyModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.InputModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.InputModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.InputModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.JSONSerializeModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.JSONSerializeModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.JSONSerializeModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.LocalizationModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.LocalizationModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.LocalizationModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.Monetization.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.Monetization.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.Monetization.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.ParticleSystemModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.ParticleSystemModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.ParticleSystemModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.PerformanceReportingModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.PerformanceReportingModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.PerformanceReportingModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.Physics2DModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.Physics2DModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.Physics2DModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.PhysicsModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.PhysicsModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.PhysicsModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.ProfilerModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.ProfilerModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.ProfilerModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.ScreenCaptureModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.ScreenCaptureModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.ScreenCaptureModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.SharedInternalsModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.SharedInternalsModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.SharedInternalsModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.SpriteMaskModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.SpriteMaskModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.SpriteMaskModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.SpriteShapeModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.SpriteShapeModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.SpriteShapeModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.StreamingModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.StreamingModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.StreamingModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.SubstanceModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.SubstanceModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.SubstanceModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.SubsystemsModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.SubsystemsModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.SubsystemsModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.TerrainModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.TerrainModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.TerrainModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.TerrainPhysicsModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.TerrainPhysicsModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.TerrainPhysicsModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.TextCoreModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.TextCoreModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.TextCoreModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.TextRenderingModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.TextRenderingModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.TextRenderingModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.TilemapModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.TilemapModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.TilemapModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.TLSModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.TLSModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.TLSModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.UI.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.UI.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.UIElementsModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.UIElementsModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.UIElementsModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.UIElementsNativeModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.UIElementsNativeModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.UIElementsNativeModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.UIModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.UIModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.UIModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.UmbraModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.UmbraModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.UmbraModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.UNETModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.UNETModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.UNETModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.UnityAnalyticsModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.UnityAnalyticsModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.UnityAnalyticsModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.UnityConnectModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.UnityConnectModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.UnityConnectModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.UnityCurlModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.UnityCurlModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.UnityCurlModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.UnityTestProtocolModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.UnityTestProtocolModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.UnityTestProtocolModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.UnityWebRequestAssetBundleModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.UnityWebRequestAssetBundleModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.UnityWebRequestAssetBundleModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.UnityWebRequestAudioModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.UnityWebRequestAudioModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.UnityWebRequestAudioModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.UnityWebRequestModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.UnityWebRequestModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.UnityWebRequestModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.UnityWebRequestTextureModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.UnityWebRequestTextureModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.UnityWebRequestTextureModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.UnityWebRequestWWWModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.UnityWebRequestWWWModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.UnityWebRequestWWWModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.VehiclesModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.VehiclesModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.VehiclesModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.VFXModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.VFXModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.VFXModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.VideoModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.VideoModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.VideoModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.VirtualTexturingModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.VirtualTexturingModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.VirtualTexturingModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.VRModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.VRModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.VRModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.WindModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.WindModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.WindModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ManagedSymbols/UnityEngine.XRModule.pdb
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/ManagedSymbols/UnityEngine.XRModule.pdb
+    projectPath: Temp/ManagedSymbols/UnityEngine.XRModule.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/tempFile.res
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/tempFile.res
+    projectPath: Temp/tempFile.res
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/tempFile.resG
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/tempFile.resG
+    projectPath: Temp/tempFile.resG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2456c0c6360dd470d96846320d8be2ef
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-2456c0c6360dd470d96846320d8be2ef
+    projectPath: Temp/UnityTempFile-2456c0c6360dd470d96846320d8be2ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6937f77d615d944cabaac1373291d2bc
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-6937f77d615d944cabaac1373291d2bc
+    projectPath: Temp/UnityTempFile-6937f77d615d944cabaac1373291d2bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-77d9b08173e964f2493668930e014f05
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-77d9b08173e964f2493668930e014f05
+    projectPath: Temp/UnityTempFile-77d9b08173e964f2493668930e014f05
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7a12e2a6caf054317bd4b4d3efc1804b
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-7a12e2a6caf054317bd4b4d3efc1804b
+    projectPath: Temp/UnityTempFile-7a12e2a6caf054317bd4b4d3efc1804b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-800b53ae0d6b54a5bbbe87551b070314
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-800b53ae0d6b54a5bbbe87551b070314
+    projectPath: Temp/UnityTempFile-800b53ae0d6b54a5bbbe87551b070314
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-87e234b108dcf41daa28d14d117a5118
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-87e234b108dcf41daa28d14d117a5118
+    projectPath: Temp/UnityTempFile-87e234b108dcf41daa28d14d117a5118
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-8f7057d43d12247f6a0eae51d1627809
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-8f7057d43d12247f6a0eae51d1627809
+    projectPath: Temp/UnityTempFile-8f7057d43d12247f6a0eae51d1627809
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b183b33f12ac74bdf91d1c0100f5a332
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-b183b33f12ac74bdf91d1c0100f5a332
+    projectPath: Temp/UnityTempFile-b183b33f12ac74bdf91d1c0100f5a332
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b7feba51e0e6f4835b39a0b8f7dac7e4
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-b7feba51e0e6f4835b39a0b8f7dac7e4
+    projectPath: Temp/UnityTempFile-b7feba51e0e6f4835b39a0b8f7dac7e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-bff8ad493bf724d1c92f462ed5d81ca9
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-bff8ad493bf724d1c92f462ed5d81ca9
+    projectPath: Temp/UnityTempFile-bff8ad493bf724d1c92f462ed5d81ca9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d109ff5e35c9640d0935b8de52417716
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-d109ff5e35c9640d0935b8de52417716
+    projectPath: Temp/UnityTempFile-d109ff5e35c9640d0935b8de52417716
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d61e7c99c1b02425c983cfbba035d061
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-d61e7c99c1b02425c983cfbba035d061
+    projectPath: Temp/UnityTempFile-d61e7c99c1b02425c983cfbba035d061
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d626946718ae7496880a56100b5be50f
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-d626946718ae7496880a56100b5be50f
+    projectPath: Temp/UnityTempFile-d626946718ae7496880a56100b5be50f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e87f5fab1bfb54c3499f679b66027ba3
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-e87f5fab1bfb54c3499f679b66027ba3
+    projectPath: Temp/UnityTempFile-e87f5fab1bfb54c3499f679b66027ba3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-eadcbbeab4a474395b917882346c9ec6
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-eadcbbeab4a474395b917882346c9ec6
+    projectPath: Temp/UnityTempFile-eadcbbeab4a474395b917882346c9ec6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f0899d03071f348eea22448cadf537c3
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-f0899d03071f348eea22448cadf537c3
+    projectPath: Temp/UnityTempFile-f0899d03071f348eea22448cadf537c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f688d8eff278a405b8f12d702aa62730
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/Temp/UnityTempFile-f688d8eff278a405b8f12d702aa62730
+    projectPath: Temp/UnityTempFile-f688d8eff278a405b8f12d702aa62730
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: WebGL Builds/Build/WebGL Builds.data.gz
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/Build/WebGL Builds.data.gz
+    projectPath: WebGL Builds/Build/WebGL Builds.data.gz
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/Build/WebGL Builds.framework.js.gz
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/Build/WebGL Builds.framework.js.gz
+    projectPath: WebGL Builds/Build/WebGL Builds.framework.js.gz
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/Build/WebGL Builds.loader.js
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/Build/WebGL Builds.loader.js
+    projectPath: WebGL Builds/Build/WebGL Builds.loader.js
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/Build/WebGL Builds.wasm.gz
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/Build/WebGL Builds.wasm.gz
+    projectPath: WebGL Builds/Build/WebGL Builds.wasm.gz
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/dependencies.txt
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/dependencies.txt
+    projectPath: WebGL Builds/dependencies.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/GUID.txt
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/GUID.txt
+    projectPath: WebGL Builds/GUID.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/index.html
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/index.html
+    projectPath: WebGL Builds/index.html
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/ProjectVersion.txt
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/ProjectVersion.txt
+    projectPath: WebGL Builds/ProjectVersion.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/TemplateData/favicon.ico
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/TemplateData/favicon.ico
+    projectPath: WebGL Builds/TemplateData/favicon.ico
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/TemplateData/fullscreen-button.png
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/TemplateData/fullscreen-button.png
+    projectPath: WebGL Builds/TemplateData/fullscreen-button.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/TemplateData/progress-bar-empty-dark.png
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/TemplateData/progress-bar-empty-dark.png
+    projectPath: WebGL Builds/TemplateData/progress-bar-empty-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/TemplateData/progress-bar-empty-light.png
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/TemplateData/progress-bar-empty-light.png
+    projectPath: WebGL Builds/TemplateData/progress-bar-empty-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/TemplateData/progress-bar-full-dark.png
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/TemplateData/progress-bar-full-dark.png
+    projectPath: WebGL Builds/TemplateData/progress-bar-full-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/TemplateData/progress-bar-full-light.png
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/TemplateData/progress-bar-full-light.png
+    projectPath: WebGL Builds/TemplateData/progress-bar-full-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/TemplateData/style.css
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/TemplateData/style.css
+    projectPath: WebGL Builds/TemplateData/style.css
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/TemplateData/unity-logo-dark.png
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/TemplateData/unity-logo-dark.png
+    projectPath: WebGL Builds/TemplateData/unity-logo-dark.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/TemplateData/unity-logo-light.png
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/TemplateData/unity-logo-light.png
+    projectPath: WebGL Builds/TemplateData/unity-logo-light.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: WebGL Builds/TemplateData/webgl-logo.png
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/WebGL
+      Builds/TemplateData/webgl-logo.png
+    projectPath: WebGL Builds/TemplateData/webgl-logo.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: webgl_sharing
+    fullPath: /Users/mcrich/Library/Mobile Documents/com~apple~CloudDocs/Unity/FPS/webgl_sharing
+    projectPath: webgl_sharing
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
